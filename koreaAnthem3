@@ -1,5 +1,4 @@
-
-<!doctype html> <!--  onclick.html -->
+<!doctype html> <!--  koreaAnthem3.html -->
 <html lang="ko">
 <head>
 <meta charset="utf-8"/>
@@ -22,10 +21,10 @@ document.getElementById("id_1").innerHTML
 </head>
 <body>
 <h4>애국가</h4>
-<p onclick="event1onclick()">1절</p>
-<p onclick="event2onclick()">2절</p>
-<p onclick="event3onclick()">3절</p>
-<p onclick="event4onclick()">4절</p>
-<p id="id_1">메시지표시</p>
+<ponclick="event1onclick()">1절</p>
+<ponclick="event2onclick()">2절</p>
+<ponclick="event3onclick()">3절</p>
+<ponclick="event4onclick()">4절</p>
+<pid="id_1">메시지표시</p>
 </body>
 </html>
